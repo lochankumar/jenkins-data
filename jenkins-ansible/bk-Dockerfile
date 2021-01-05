@@ -1,0 +1,17 @@
+FROM jenkins/jenkins
+
+USER root
+
+
+#RUN curl -O https://bootstrap.pypa.io/get-pip.py && \
+#    apt-get -y install python3 && \
+#    apt-get install -y python-pip && \
+#    pip install --upgrade pip
+
+RUN curl -O https://bootstrap.pypa.io/get-pip.py && \
+    python get-pip.py && \
+    pip install ansible --upgrade
+
+USER jenkins
+
+

@@ -1,0 +1,6 @@
+- hosts: test1
+  tasks:
+    - shell: echo Hello World ansible and Jenkins > /tmp/ansible-file
+    - debug:
+        msg: "{{MSG}}"
+

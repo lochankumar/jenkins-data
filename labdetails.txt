@@ -1,0 +1,12 @@
+jenkins
+Csc@123k
+
+Problem:
+
+Hosts under dir jenkins-ansible is not mounting on container jenkins.
+
+PHP is not connecting with DB to show result for query.
+
+DB container is taking root // Access issue for host id lochan..
+
+

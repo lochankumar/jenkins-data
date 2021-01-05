@@ -1,0 +1,10 @@
+Started by user [8mha:////4CDaLzao4A67utYR77ls98WC8cTIZkXIASznBGiVkvolAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/dLi1CL9rNS87My8YgDGtiJjwgAAAA==[0mJenkins
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/firstjob
+[firstjob] $ /bin/sh -xe /tmp/jenkins3803436149322917403.sh
++ echo Hello, LOCHAN KUMAR false
+Hello, LOCHAN KUMAR false
++ /tmp/script.sh LOCHAN KUMAR false
+/tmp/script.sh: line 6: [: missing `]'
+If you want to see the name, please marck show
+Finished: SUCCESS
